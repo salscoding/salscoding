@@ -21,8 +21,8 @@ I am a Software Engineering Student at University Selangor at Malaysia, pursuing
 <a href="https://github.com/salscoding/vue-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=vue-practice&theme=dark" />
 </a>
-<a href="https://github.com/salscoding/weather-app-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=weather-app-flutter&theme=dark" />
+<a href="https://github.com/salscoding/greenlight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=greenlight&theme=dark" />
 </a>
 
 ## Some of my Github Public Stats
