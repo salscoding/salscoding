@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-salscoding@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:salscoding@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-salmanfrahman-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salmanfrahman/ "Connect on LinkedIn")
-[![Facebook Badge](https://img.shields.io/badge/-salmanfrahmanfb-00acee?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/salmanfrahmanfb/ "Follow on Facebook")
 [![Messenger Badge](https://img.shields.io/badge/-salmanfrahmanfb-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/salmanfrahmanfb "Connect on Messenger")
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=60183653080&text=Hi%20SalsCoding%2C%20I%20am%20your%20friend%20from%20github!%20%5E_%5E)
 
