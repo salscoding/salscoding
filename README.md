@@ -17,11 +17,11 @@ I am a Software Engineering Student at University Selangor at Malaysia, pursuing
 - 👾 Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 
 ## Recent Commits
+<a href="https://github.com/salscoding/flutter_netflix_clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=flutter_netflix_clone&theme=dark" />
+</a>
 <a href="https://github.com/salscoding/vue-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=vue-practice&theme=dark" />
-</a>
-<a href="https://github.com/salscoding/weather-app-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=weather-app-flutter&theme=dark" />
 </a>
 
 ## Some of my Github Public Stats
