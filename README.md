@@ -20,8 +20,8 @@ I am a Software Engineering Student at University Selangor at Malaysia, pursuing
 <a href="https://github.com/salscoding/flutter_netflix_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=flutter_netflix_clone&theme=dark" />
 </a>
-<a href="https://github.com/salscoding/vue-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=vue-practice&theme=dark" />
+<a href="https://github.com/salscoding/Simple-Game-using-Vue-Js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=Simple-Game-using-Vue-Js&theme=dark" />
 </a>
 
 ## Some of my Github Public Stats
