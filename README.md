@@ -32,6 +32,5 @@ I am a Software Engineering Student at University Selangor at Malaysia, pursuing
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salscoding&show_icons=true&theme=dark">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salscoding&layout=compact&theme=dark">
-  <a href="https://www.buymeacoffee.com/salscoding" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 117px !important;" ></a>
 </p>
 </details>
