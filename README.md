@@ -20,8 +20,8 @@ I am a Software Engineering Student at University Selangor at Malaysia, pursuing
 <a href="https://github.com/salscoding/flutter-firebase-authentication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=flutter-firebase-authentication&theme=dark" />
 </a>
-<a href="https://github.com/salscoding/Simple-Game-using-Vue-Js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=Simple-Game-using-Vue-Js&theme=dark" />
+<a href="https://github.com/salscoding/discord_clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=discord_clone&theme=dark" />
 </a>
 
 ## Some of my Github Public Stats
