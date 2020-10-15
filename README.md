@@ -7,7 +7,7 @@
 
 <a href="https://smsofttech.com/"><img src="https://raw.githubusercontent.com/salscoding/salscoding/master/assets/qr-code-salscoding.png" align="right" height="200" /></a>
 
-I am a Software Engineering Student at University Selangor at Malaysia, pursuing a Masters in Software Engineering, who is passionate about Machine Learning :robot:, Data Science :bar_chart:, Software Architecture :building_construction:, and Open-Source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Software Engineering Student at University Selangor in Malaysia, pursuing a Masters in Software Engineering, who is passionate about Machine Learning :robot:, Data Science :bar_chart:, Software Architecture :building_construction:, and Open-Source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [MERN Stack](https://www.lynda.com/learning-paths/Web/become-a-mern-stack-javascript-developer) and Functional programming
 - 👯 I’m looking to collaborate on any A.I project which seems interesting or useful
