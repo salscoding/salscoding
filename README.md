@@ -17,11 +17,11 @@ I am a Software Engineer, pursuing a Master's in Software Engineering & Informat
 - 👾 Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 
 ## Recent Commits
+<a href="https://github.com/salscoding/react-job-portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=react-job-portal&theme=dark" />
+</a>
 <a href="https://github.com/salscoding/nextjs-13-demo-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=nextjs-13-demo-project&theme=dark" />
-</a>
-<a href="https://github.com/salscoding/discord_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=discord_clone&theme=dark" />
 </a>
 
 ## Some of my Github Public Stats
