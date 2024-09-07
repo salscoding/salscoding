@@ -17,6 +17,10 @@ I am a Software Engineer, pursuing a Master's in Software Engineering & Informat
 - 👾 Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?!
 
 ## Recent Commits
+
+<a href="https://github.com/salscoding/unioulu-ips-community-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=unioulu-ips-community-app&theme=dark" />
+</a>
 <a href="https://github.com/salscoding/laravel11-reactjs-inertia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salscoding&repo=laravel11-reactjs-inertia&theme=dark" />
 </a>
